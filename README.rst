@@ -108,6 +108,8 @@ It has seen real-world usage in:
 * `Learn Scripture <https://learnscripture.net/>`_ - the original project it was
   created for, see the `GitLab learnscripture.net project
   <https://gitlab.com/learnscripture/learnscripture.net>`_.
+* `mozilla.org <https://www.mozilla.org/>`_ - see `bedrock GitHub project
+  <https://github.com/mozilla/bedrock>`_.
 * Probably a fair number of other projects, but I don’t know about them…
 
 
